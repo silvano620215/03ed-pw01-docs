@@ -8,4 +8,4 @@ Marco Boz
 
 .. toctree::
 
-   doc/01-analisi-organizzativa.rst
+   01-analisi-organizzativa.rst
